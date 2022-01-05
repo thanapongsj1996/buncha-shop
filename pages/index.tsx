@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://www.facebook.com/บัญชา-ปลากัดสวยงาม-101802095718936">BunCha Shop</a>
         </h1>
 
         <p className={styles.description}>
